@@ -1,3 +1,3 @@
 # Skillbox learning
-Course name *Node.js*.
-[My account](https://github.com/nizamoveduard)
+
+Домашнее задание **Skillbox** _Node.js_, модуль 1, студент: [Низамов Эдуард](https://github.com/nizamoveduard)
